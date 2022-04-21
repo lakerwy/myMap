@@ -32,22 +32,3 @@
 1. 渲染echarts图
 
 1. 点击地图下钻
-
-
-地图主要分为：
-
-分布图、散点图、热力图、航线图等
-
-
-
---npm install   
-
---cd EchartsMap
-
---npm run dev
-
-
-掘金:[https://juejin.im/user/5d6cc5b56fb9a06acf2b747f](https://juejin.im/user/5d6cc5b56fb9a06acf2b747f)
-
-echarts社区：[https://gallery.echartsjs.com/explore.html?u=bd-4240785066&type=work#sort=rank~timeframe=all~author=all](https://gallery.echartsjs.com/explore.html?u=bd-4240785066&type=work#sort=rank~timeframe=all~author=all)
-
